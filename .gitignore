@@ -1,0 +1,12 @@
+# Js node_modules
+node_modules
+
+# confidential keys
+.env   
+.DS_Store          
+
+# ignore these files 
+scraps.js
+about.ejs
+
+
